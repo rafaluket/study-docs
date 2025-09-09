@@ -18,21 +18,21 @@ This section will cover the fundamental building blocks of software development.
 - Functional Programming (FP): Concepts such as pure functions, immutability, and higher-order functions.
 - Concurrency and Parallelism: How to handle multiple tasks at once.
 
-#Development Architectures
+# Development Architectures
 This section will explore different ways to structure a software system.
 - Monolithic Architecture: A single, unified application.
 - Microservices Architecture: A collection of small, independent services.
 - Serverless Architecture: Event-driven functions without managing servers.
 - Domain-Driven Design (DDD): Focusing on the core business domain.
 
-#Best Practices and Methodologies
+# Best Practices and Methodologies
 Here, we will look at the processes and practices that lead to better software.
 - Agile Methodology: An iterative and collaborative approach.
 - Version Control (Git): Managing and tracking changes to code.
 - Testing (TDD, BDD): Ensuring code quality and correctness.
 - DevOps: The integration of development and operations.
 
-#Future Topics
+# Future Topics
 As this guide evolves, I plan to add sections on:
 - Cloud Computing (AWS, Azure, GCP)
 - Containerization (Docker, Kubernetes)
